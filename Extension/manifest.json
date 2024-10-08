@@ -1,7 +1,7 @@
 {
   "name": "PingCodeNewTab",
   "description": "支持右键PingCode工作项在新标签页中打开连接（筛选后需要手动刷新页面）",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 3,
   "content_scripts": [
     {

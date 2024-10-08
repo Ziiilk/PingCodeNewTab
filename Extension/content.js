@@ -28,6 +28,7 @@ function init() {
         if (divElems.length > index) {
             divElems[index].click();
             log("Window popped up");
+            window.location.hash = "";
         }
     }
 };
